@@ -6,7 +6,7 @@ Home Dive into the Home page to explore my personal projects. From coding experi
 
 Contract The Contract page highlights collaborative projects undertaken with clients. It demonstrates my professional approach, attention to detail, and the ability to bring clients' visions to life.
 
-Preview To get a quick preview, visit the [live portfolio here https://sathya131202.github.io/portfolio-simple-website/ ].
+Preview To get a quick preview, visit the [live portfolio here https://sathya1312102.github.io/portfolio-simple-website/ ].
 
 Technologies Used HTML CSS
 
